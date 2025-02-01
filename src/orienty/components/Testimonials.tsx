@@ -33,17 +33,17 @@ export default function Testimonials() {
         </div>
         <h2
           id="testimonials-title"
-          className="mt-5 text-6xl font-bold leading-tight text-zinc-900 max-md:max-w-full max-md:text-4xl"
+          className="mt-5 text-4xl font-bold leading-tight text-zinc-900 max-md:max-w-full max-md:text-4xl"
         >
           Nos témoignages
         </h2>
-        <p className="mt-5 text-xl leading-8 max-md:max-w-full">
+        <p className="mt-5 text-lg leading-7 max-md:max-w-full">
           Nos témoignages reflètent avec sincérité l'environnement bienveillant
           que nous offrons, où chaque étudiant s'épanouit tant sur le plan
           académique qu'émotionnel.
         </p>
       </div>
-      <div className="flex flex-wrap gap-10 items-center mt-24 w-full max-md:mt-10 max-md:max-w-full">
+      <div className="flex flex-wrap gap-1 items-center mt-24 w-full max-md:mt-10 max-md:max-w-full">
         <button
           className="flex overflow-hidden gap-2.5 items-center self-stretch p-3.5 my-auto bg-white rounded-lg border-2 border-solid border-zinc-800 h-[58px] w-[58px]"
           aria-label="Previous testimonial"
